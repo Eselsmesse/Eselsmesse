@@ -24,16 +24,10 @@ I am IT professional with more than 10 years of experience in Information Techno
       
 </tr>    
 <tr>
-      <td><a href="https://github.com/akylson/iris-prediction-with-django"><b>Iris-Prediction-with-Django</b></a></td>
-      <td><a href="https://github.com/akylson/iris-prediction-with-django/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/akylson/iris-prediction-with-django/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/akylson/iris-prediction-with-django/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
+      
 </tr>
 <tr>
-      <td><a href="https://github.com/akylson/real-time-sign-language-detection"><b>Real-Time Sign-Language Detection</b></a></td>
-      <td><a href="https://github.com/akylson/real-time-sign-language-detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/akylson/real-time-sign-language-detection/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/akylson/real-time-sign-language-detection/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
+      
 </tr>
 <tr>
       <td><a href="https://github.com/akylson/simple_face_detection"><b>Simple Face-Detection with OpenCV</b></a></td>
