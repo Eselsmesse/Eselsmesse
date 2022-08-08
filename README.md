@@ -3,7 +3,7 @@
 <p><a href="www.linkedin.com/in/denis-chemodanov-7055a01b3"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 ### My name is Denis Chemodanov :raising_hand: 
-I am a novice data science specialist. Looking for ways to improve the world around me through knowledge and analysis. Passionate about improving existing products, processes and finding insights into company products. I strive to be at the cutting edge of innovative technologies
+I am a novice data science specialist. Looking for ways to improve the world around me through knowledge and analysis. Passionate about improving existing products, processes and finding insights into company products. I strive to be at the cutting edge of innovative technologies.
 
 
 <h3>My Repositories</h3>
