@@ -28,5 +28,12 @@ I am a novice data science specialist. Looking for ways to improve the world aro
       <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Eselsmesse/Yandex-stady-projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/Eselsmesse/Yandex-stady-projects/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Eselsmesse/Yandex-stady-projects?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
+</tr>	  
+    <tr>
+      <td><a href="https://github.com/Eselsmesse/Competitions-and-hackatons"><b>Yandex.Praktikum Data Science Stady Projects</b></a></td>
+      <td><a href="https://github.com/Eselsmesse/Competitions-and-hackatons/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Eselsmesse/Competitions-and-hackatons?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Eselsmesse/Competitions-and-hackatons/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Eselsmesse/Competitions-and-hackatons?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Eselsmesse/Competitions-and-hackatons/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Eselsmesse/Competitions-and-hackatons?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
   </tbody>
 </table>
